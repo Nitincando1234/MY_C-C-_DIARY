@@ -1,3 +1,0 @@
-C:/Nitin Programming Btech/C++ Nitin/cmake-build-debug/CMakeFiles/C___Nitin.dir
-C:/Nitin Programming Btech/C++ Nitin/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Nitin Programming Btech/C++ Nitin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
